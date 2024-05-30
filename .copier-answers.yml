@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 2.1.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: thomas.thomas@diamond.ac.uk
+author_name: Thomas Thomas
+component_owner: group:default/sscc
+description: Electron Microscope monitoring system using prometheus
+distribution_name: EM-Monitoring-System
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: DiamondLightSource
+package_name: EM_Monitoring_System
+pypi: false
+repo_name: EM-Monitoring-System
+type_checker: mypy
