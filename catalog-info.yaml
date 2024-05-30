@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: EM-Monitoring-System
+  title: EM-Monitoring-System
+  description: Electron Microscope monitoring system using prometheus
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/sscc
