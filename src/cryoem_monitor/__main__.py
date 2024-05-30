@@ -11,6 +11,6 @@ def main(args=None):
     args = parser.parse_args(args)
 
 
-# test with: python -m EM_Monitoring_System
+# test with: python -m cryoem_monitor
 if __name__ == "__main__":
     main()

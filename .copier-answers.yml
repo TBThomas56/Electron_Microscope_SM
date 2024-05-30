@@ -5,12 +5,12 @@ author_email: thomas.thomas@diamond.ac.uk
 author_name: Thomas Thomas
 component_owner: group:default/sscc
 description: Electron Microscope monitoring system using prometheus
-distribution_name: EM-Monitoring-System
+distribution_name: cryoem-monitor
 docker: false
 docs_type: README
 git_platform: github.com
 github_org: DiamondLightSource
-package_name: EM_Monitoring_System
+package_name: cryoem-monitor
 pypi: false
-repo_name: EM-Monitoring-System
+repo_name: cryoem-monitor
 type_checker: mypy

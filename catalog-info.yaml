@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: EM-Monitoring-System
-  title: EM-Monitoring-System
+  name: cryoem-monitor
+  title: cryoem-monitor
   description: Electron Microscope monitoring system using prometheus
 spec:
   type: documentation
